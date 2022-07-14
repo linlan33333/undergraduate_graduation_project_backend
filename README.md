@@ -1,0 +1,2 @@
+# undergraduate_graduation_project_backend
+大学本科毕设，后端通过Flask框架将Yolov5算法和Deepsort算法整合，由于Yolov5算法和Deepsort算法本身使用的是别人整合好的，添加到Flask中启动程序非常乱
